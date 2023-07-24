@@ -1,0 +1,19 @@
+body {
+  background-color: slategrey;
+  color: aliceblue;
+}
+
+.wrapper {
+  margin-top: 35vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.innerWrapper {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-evenly;
+  width: 150px;
+}
